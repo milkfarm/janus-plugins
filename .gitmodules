@@ -7,3 +7,6 @@
 [submodule "vim-ragtag"]
 	path = vim-ragtag
 	url = git@github.com:tpope/vim-ragtag.git
+[submodule "vim-rails"]
+	path = vim-rails
+	url = git@github.com:tpope/vim-rails.git
