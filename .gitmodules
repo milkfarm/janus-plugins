@@ -1,3 +1,6 @@
 [submodule "vim-align"]
 	path = vim-align
 	url = git@github.com:slack/vim-align.git
+[submodule "vim-indent-guides"]
+	path = vim-indent-guides
+	url = git@github.com:nathanaelkane/vim-indent-guides.git
