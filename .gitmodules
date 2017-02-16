@@ -22,3 +22,6 @@
 [submodule "vim-textobj-rubyblock"]
 	path = vim-textobj-rubyblock
 	url = git@github.com:nelstrom/vim-textobj-rubyblock.git
+[submodule "vim-textobj-line"]
+	path = vim-textobj-line
+	url = git@github.com:kana/vim-textobj-line.git
