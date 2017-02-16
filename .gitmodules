@@ -10,3 +10,6 @@
 [submodule "vim-rails"]
 	path = vim-rails
 	url = git@github.com:tpope/vim-rails.git
+[submodule "vim-rvm"]
+	path = vim-rvm
+	url = git@github.com:tpope/vim-rvm.git
