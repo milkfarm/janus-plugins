@@ -13,3 +13,6 @@
 [submodule "vim-rvm"]
 	path = vim-rvm
 	url = git@github.com:tpope/vim-rvm.git
+[submodule "vim-test"]
+	path = vim-test
+	url = git@github.com:milkfarm/vim-test.git
