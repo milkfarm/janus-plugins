@@ -18,6 +18,6 @@ git submodule update --init --recursive
 
 ```shell
 cd ~/.janus
-git submodule add git@github.com:USER_NAME/REPO_NAME.git ./
-git submodule update --init --recursive
+git submodule add git@github.com:USER/REPO.git
+git commit -am "Add REPO plugin as submodule"
 ```
