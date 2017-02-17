@@ -28,3 +28,6 @@
 [submodule "vim-tmux-navigator"]
 	path = vim-tmux-navigator
 	url = git@github.com:christoomey/vim-tmux-navigator.git
+[submodule "greplace.vim"]
+	path = greplace.vim
+	url = git@github.com:skwp/greplace.vim.git
