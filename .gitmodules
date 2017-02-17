@@ -25,3 +25,6 @@
 [submodule "vim-textobj-line"]
 	path = vim-textobj-line
 	url = git@github.com:kana/vim-textobj-line.git
+[submodule "vim-tmux-navigator"]
+	path = vim-tmux-navigator
+	url = git@github.com:christoomey/vim-tmux-navigator.git
