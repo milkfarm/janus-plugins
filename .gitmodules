@@ -31,3 +31,12 @@
 [submodule "greplace.vim"]
 	path = greplace.vim
 	url = git@github.com:skwp/greplace.vim.git
+[submodule "vim-bundler"]
+	path = vim-bundler
+	url = git@github.com:tpope/vim-bundler.git
+[submodule "vim-rake"]
+	path = vim-rake
+	url = git@github.com:tpope/vim-rake.git
+[submodule "vim-projectionist"]
+	path = vim-projectionist
+	url = git@github.com:tpope/vim-projectionist.git
