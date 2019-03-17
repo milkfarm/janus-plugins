@@ -43,3 +43,6 @@
 [submodule "vim-fubitive"]
 	path = vim-fubitive
 	url = git@github.com:tommcdo/vim-fubitive.git
+[submodule "fzf.vim"]
+	path = fzf.vim
+	url = git@github.com:junegunn/fzf.vim.git
