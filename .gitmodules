@@ -49,3 +49,6 @@
 [submodule "rename.vim"]
 	path = rename.vim
 	url = git@github.com:danro/rename.vim
+[submodule "splitjoin.vim"]
+	path = splitjoin.vim
+	url = git@github.com:AndrewRadev/splitjoin.vim.git
